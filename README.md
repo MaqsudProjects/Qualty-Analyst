@@ -1,0 +1,2 @@
+# Qualty-Analyst
+Quality Analyst in MNC
